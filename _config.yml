@@ -6,7 +6,7 @@ repository: Git repository where your resume will be hosted, only required if yo
 version: 2
 
 # Personal info
-name: Moises Echeverria Ortiz (Koneitor)
+name: Moises Echeverria Ortiz
 title: Estudiante de ingenieria en computación
 email: moises.echeverria5780@alummos.udg.mx
 # email_title: Email (Email title override)
