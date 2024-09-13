@@ -28,7 +28,7 @@ github_username: MoisesEO
 instagram_username: moysesotz55
 linkedin_username: moises-echeverria-ortiz-8117a5324
 pinterest_username: moysesortiz55
-youtube_username: "@" + MoisesEOrtiz
+youtube_username: MoisesEOrtiz
 #googlescholar_username: D847cGsAAAAJ
 
 # Additional icon links
@@ -54,12 +54,7 @@ youtube_username: "@" + MoisesEOrtiz
 about_profile_image: images/zorro_perfil.jpg
 about_content: | # this will include new lines to allow paragraphs
   Soy una persona bastante seria, responsable y que le encanta aprender de sus errores mientras se divierte y mejora, se trabajar en equipo, no tengo grandes rasgos de lider, pero puedo cumplir con los objetivos que se establezcan y se escuchar y aprender de las ideas de los demas para mejorar mi punto de vista.
-
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+  
 
 content:
   - title: Projects # Title for the section
