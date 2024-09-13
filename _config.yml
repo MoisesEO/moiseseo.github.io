@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Moises Echeverria Ortiz
-title: Estudiante de ingenieria en computación
+title: Estudiante de ingeniería en computación
 email: moises.echeverria5780@alummos.udg.mx
 # email_title: Email (Email title override)
 phone: 3321999698
@@ -20,7 +20,7 @@ darkmode: false
 
 # Social links
 twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  https://github.com/MoisesEO
 stackoverflow_username: "00000001"
 dribbble_username: jekyll
 facebook_username: jekyll
