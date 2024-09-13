@@ -60,7 +60,7 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: top
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Proyecto Universitario sobre el aprovechamiento de residuos de café.
@@ -85,32 +85,30 @@ content:
   - title: Experience
     layout: list
     content:
-      - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
+      - layout: top
+        title: Prepa 19
+        sub_title: Diseño de un videojuego educativo en realidad virtual
+        caption: Septiembre 2024 - presente)
+        #link: Link to company (optional)
         quote: >
-          Short description of the company (optional)
+          Preparatoria No. 19 de UdeG.
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          Tal cual no es un trabajo formal, pero es mi servicio socia donde deberé junto a otros compañeros, desarrollar un videojuego en realidad virtual usando Unity. El objetivo de este videojuego es incentivar a que los estudiantes universitarios a desarrollar sus conocimientos interactuando con los distintos objetos que serán representados en el juego.
   - title: Education
     layout: list
     content:
-      - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
+      - layout: top
+        title: Universidad De Guadalajara
+        sub_title: Licenciatura en ingeniería en Computación 
+        caption: (2021 - 2024)
         quote: >
-          Short institution or course description (optional)
+          Cursada en el Centro Universitario de Ciencias Exactas e Ingenierías (CUCEI) 
         description: | # this will include new lines to allow paragraphs
-          Description of qualification
+          Durante mi estancia en la universidad (espero terminar todas mis materias este semestre, del titulo hablaremos luego) he aprendido diversas habilidades para poder trabajar en equipo, lenguajes de programación y ampliar mi campo de visión, pero esto no termina aquí, planeo seguir capacitándome con cursos para no parar de aprender ya que este tipo de carreras siempre se puede aprender uno nuevo dado a que nunca terminan de avanzar.
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+      Me gustan mucho los videojuegos, escuchar música y los deportes, siempre intento hacer algo nuevo aun que a veces mi estado de animo no me lo permite, siempre pueden contar con un buen amigo, que los escuche e intente ayudar a pesar de que no siempre tengo las respuestas para todo.
 
 # Footer
 footer_show_references: true
